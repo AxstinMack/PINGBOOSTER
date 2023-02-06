@@ -10,7 +10,10 @@ and makes your inthernet go to the best network possible. 😱
 - PING FIXER
 - AND MORE 
 
-
+#SETUP 
+OPEN UP THE AXSTINS-PB FILE 
+WHEN ADMIN POPS UP CLICK YES 
+THEN TURN ON PING FIXER
 DISCORD.GG/HENNESY for questions
 
 
