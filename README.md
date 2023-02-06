@@ -14,6 +14,8 @@ and makes your inthernet go to the best network possible. 😱
 OPEN UP THE AXSTINS-PF FILE 
 WHEN ADMIN POPS UP CLICK YES 
 THEN TURN ON PING FIXER
+
+
 DISCORD.GG/HENNESY for questions
 
 
